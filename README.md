@@ -1,6 +1,4 @@
-## Hi people, I'm Matheus Percário. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24">
-
----
+### Hi there! I'm Matheus Percário <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="28">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuspercario)](https://github.com/matheuspercario)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspercario/)](https://www.linkedin.com/in/matheus-percario-757868169/)
@@ -17,8 +15,8 @@ I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [U
 
 
 
-#### Skills
-- Python Programming;
+#### Main skills
+- Python;
 - Data Mining;
 - SQL;
 - C/C++ and Java.
