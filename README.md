@@ -13,7 +13,7 @@ I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [U
 - 🌱 I’m currently learning web development with Python.
 - 🎮 Fun fact: I play CS:GO and Soccer.
 
-
+<img align="right" src="https://octodex.github.com/images/labtocat.png" width="320">
 
 #### Main skills
 - Python;
