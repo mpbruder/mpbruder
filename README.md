@@ -1,4 +1,4 @@
-## Hi there! I'm Matheus Percário &nbsp;&nbsp;&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="38">
+## Hi there! I'm Matheus Percário &nbsp;&nbsp;&nbsp;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuspercario)](https://github.com/matheuspercario)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspercario@gmail.com)](mailto:matheuspercario@gmail.com)
@@ -13,7 +13,7 @@ I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [U
 - 🌱 I’m currently learning web development with Python.
 - 🎮 Fun fact: I play CS:GO and Soccer.
 
-<img align="right" src="https://octodex.github.com/images/labtocat.png" width="320">
+<img align="right" src="https://octodex.github.com/images/labtocat.png" width="250">
 
 #### Main skills
 - Python;
