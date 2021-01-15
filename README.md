@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuspercario)](https://github.com/matheuspercario)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspercario@gmail.com)](mailto:matheuspercario@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspercario/)](https://www.linkedin.com/in/matheus-percario-757868169/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpbruder/)](https://www.linkedin.com/in/matheus-percario-757868169/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/matheuspercario)
 
 
@@ -10,7 +10,9 @@
 I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br). Besides, I am studying to be a {backend, frontend and mobile} developer or maybe a data scientist.
 
 - 🔭 I’m currently working on a web development project ([Unicamp - PIBITI](https://www.prp.unicamp.br/pt-br/pibiti)).
-- 🌱 I’m currently learning web development with Python.
+- 🌱 I’m currently learning web development with Python (Django Framework).
+- 🤔 I’m looking for help with Web Development.
+- 📫 How to reach me: matheuspercario@gmail.com.
 - 🎮 Fun fact: I play CS:GO and Soccer.
 
 <img align="right" src="https://octodex.github.com/images/labtocat.png" width="250">
@@ -19,7 +21,9 @@ I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [U
 - Python;
 - Data Mining;
 - SQL;
-- C/C++ and Java.
+- HTML, CSS & JS;
+- C/C++;
+- Linux.
 
 
 
