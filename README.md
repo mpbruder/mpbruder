@@ -9,14 +9,15 @@
   <a href="https://github.com/matheuspercario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspercario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspercario&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
 ## 
   
 ### About me
-I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br). Besides, I am studying to be a {backend, frontend and mobile} developer or maybe a data scientist.
+I am studying a lot to be a _{fullstack or backend}_ developer and maybe a data scientist.
 
-- 👨‍🎓 Studying: Information Systems at [UNICAMP](https://www.unicamp.br/unicamp/)
+- 👨‍🎓 **Studying**: Information Systems at [UNICAMP](https://www.unicamp.br/unicamp/)
 - 🔭 I’m **currently working** on a web development project ([UNICAMP](https://www.prp.unicamp.br/pt-br/pibiti))
 - 🌱 I’m **currently learning** web development with Django, Flutter
 - 🤔 I’m **looking for** help with Web Development
