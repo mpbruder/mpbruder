@@ -1,4 +1,4 @@
-## Hi there, I'm Matheus! 
+# Hi there, I'm Matheus! 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuspercario)](https://github.com/matheuspercario)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspercario@gmail.com)](mailto:matheuspercario@gmail.com)
@@ -13,18 +13,19 @@
   
 ## 
   
-#### About me
+### About me
 I'm a student at the [School of Technology](https://www.ft.unicamp.br) at the [University of Campinas](https://www.unicamp.br). Besides, I am studying to be a {backend, frontend and mobile} developer or maybe a data scientist.
 
-- 🔭 I’m currently working on a web development project ([Unicamp - PIBITI](https://www.prp.unicamp.br/pt-br/pibiti)).
-- 🌱 I’m currently learning web development with Python (Django Framework).
-- 🤔 I’m looking for help with Web Development.
-- 📫 How to reach me: matheuspercario@gmail.com.
-- 🎮 Fun fact: I play CS:GO and Soccer.
+- 👨‍🎓 Studying: Information Systems at [UNICAMP](https://www.unicamp.br/unicamp/)
+- 🔭 I’m **currently working** on a web development project ([UNICAMP](https://www.prp.unicamp.br/pt-br/pibiti))
+- 🌱 I’m **currently learning** web development with Django, Flutter
+- 🤔 I’m **looking for** help with Web Development
+- 🎒 **Main Tools**: VSCode and GitHub
+- 🎮 **Fun fact**: I play CS:GO and Soccer
 
 ##
   
-#### Main Skills
+### Main Skills
 Here are listed my main technical skills in software development.
   
 <div style="display: inline_block">
