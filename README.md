@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/matheuspercario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspercario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspercario&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpbruder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpbruder&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
   
@@ -48,7 +48,7 @@ Here are listed my main technical skills in software development.
   
 ##
   
-![Snake animation](https://github.com/matheuspercario/matheuspercario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mpbruder/mpbruder/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
